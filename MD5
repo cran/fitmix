@@ -1,0 +1,10 @@
+33a84794fc82ceb38ec1ce68603ae6a8 *DESCRIPTION
+aa72da057f8bde8a34d66d35c8c9e96a *NAMESPACE
+5b4d9b1c39b1f9172b7a0cbcaa91a960 *R/dmix.R
+0d1b41ad6d3500de907bb0cbab026f95 *R/fitmixEM.R
+c98fb67404a3816173e0a00b062fa049 *R/pmix.R
+4c9b23b5c6de68be88cab64bd519ff72 *R/rmix.R
+24ccc0f2ed7d373fe6c9ebeeb9de29b5 *man/dmix.Rd
+346ac63bba05ca3d56e19b29f760f94b *man/fitmixEM.Rd
+1f4947db0061b4183bf5be35ac8a5367 *man/pmix.Rd
+a0be3395a0cbd68417812deb6ea3eac7 *man/rmix.Rd
