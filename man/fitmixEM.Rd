@@ -48,7 +48,7 @@ fitmixEM(lifespan, "weibull", K = 2, initial = FALSE)
 }
 \references{
 Farewell, V. (1982). The Use of Mixture Models for the Analysis of Survival Data with Long-Term Survivors. \emph{Biometrics, 38(4), 1041-1046}. doi:10.2307/2529885
-McLachlan, G. J. and Peel, D. (2000) \emph{Finite Mixture Models}, John Wiley \& Sons, Inc.
+McLachlan, G. J. and Peel, D. (2000) \emph{Finite Mixture Models}, John Wiley & Sons, Inc.
 
 Essam K. Al-Hussaini, Gannat R. Al-Dayian & Samia A. Adham (2000) On finite mixture of two-component gompertz lifetime model, \emph{Journal of Statistical Computation and Simulation, 67:1, 20-67}, DOI: 10.1080/00949650008812033
 }
